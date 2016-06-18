@@ -45,7 +45,7 @@ setup(
     ],
     include_package_data=True,
     install_requires=[
-        'django-oscar==1.1.1',
+        'django-oscar==1.2.1',
         'django-telegram-bot==0.5.0'
     ],
     license="BSD",
